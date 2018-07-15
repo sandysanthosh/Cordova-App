@@ -1,0 +1,25 @@
+
+
+https://www.youtube.com/watch?v=sgnIWNXPKfI
+
+phonegap build android
+
+phonegap create testApp
+
+cordova platform add --save android
+
+phonegap build android
+
+cordova build android --debug
+
+cordova run android --list
+
+cordova platform add android
+
+phonegap serve
+
+npm install -g phonegap
+
+npm install bootstrap@3
+
+cordova create app1 com.phonegap.app app1
